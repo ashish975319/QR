@@ -1,7 +1,7 @@
 import React from "react";
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import QRCodeForm from "./components/QRCodeForm";
-import ScannedDataDisplay from "./components/ScannedDataDisplay";
+import ScannedDataDisplay from "./components/ScannedDataPage";
 
 const App = () => {
   return (
